@@ -59,7 +59,7 @@
           "type": "review_v1",
           "settings": {
             "name": "Michelle",
-            "text": "and 758 people purchased",
+            "text": "NEW_758_PURCHASED_CONTENT",
             "background_review": "#eeecff",
             "text_color": "#000000",
             "verified_badge": "#1c9cef",
@@ -99,7 +99,7 @@
         "8f8d8903-27e7-4cac-99c4-ec1b60b7f309": {
           "type": "fomo",
           "settings": {
-            "fomo_text_before": "<strong>Free Shipping</strong> included for the next <strong>8</strong> orders!",
+            "fomo_text_before": "<strong>NEW_FREE_SHIPPING_NEXT_ORDERS_CONTENT</strong> included for the next <strong>8</strong> orders!",
             "text_style": "body",
             "text_size": 14,
             "color_scheme": "inverse",
@@ -176,7 +176,7 @@
           "settings": {
             "icon": "return",
             "icon_width": 20,
-            "content": "<p><strong>30-Day-Guarantee</strong></p>",
+            "content": "<p><strong>NEW_30DAY_GUARANTEE_CONTENT</strong></p>",
             "font_size": 100
           }
         },
@@ -412,53 +412,7 @@
         "margin_bottom": 36
       }
     },
-    "a1098323-9921-48ef-9777-4dd2323c4c96": {
-      "type": "lumin-scrolling-text",
-      "blocks": {
-        "template--20863348932914__a1098323-9921-48ef-9777-4dd2323c4c96-announcement-1": {
-          "type": "announcement",
-          "settings": {
-            "Announcement": "<h2>Take <em>20% Off  With </em>Code <strong>SAVE20</strong></h2>",
-            "announcement_size": 60,
-            "announcement_size_m": 40,
-            "text_spacing": -0.5,
-            "text_transform": "none",
-            "announcement_color": "#1f1d24",
-            "icon": "none",
-            "text_link": ""
-          }
-        },
-        "template--20863348932914__a1098323-9921-48ef-9777-4dd2323c4c96-announcement-2": {
-          "type": "announcement",
-          "settings": {
-            "Announcement": "<h2><em>Free Shipping</em> on Order Over $199</h2>",
-            "announcement_size": 60,
-            "announcement_size_m": 40,
-            "text_spacing": -0.5,
-            "text_transform": "none",
-            "announcement_color": "#1f1d24",
-            "icon": "none",
-            "text_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--20863348932914__a1098323-9921-48ef-9777-4dd2323c4c96-announcement-1",
-        "template--20863348932914__a1098323-9921-48ef-9777-4dd2323c4c96-announcement-2"
-      ],
-      "settings": {
-        "scroll_speed": 40,
-        "reverse": false,
-        "fade": false,
-        "color_scheme": "inverse",
-        "padding_desktop": 8,
-        "padding_mobile": 8,
-        "padding_item_desktop": 32,
-        "padding_item_mobile": 8,
-        "padding_top": 0,
-        "padding_bottom": 32
-      }
-    },
+ 
     "d31f53cb-9364-41f3-a671-80eb5f1a57a5": {
       "type": "lumin-grids",
       "blocks": {
@@ -545,7 +499,7 @@
             "bg_color": "#f6f6f6",
             "icon_size": 25,
             "icon_corner": 0,
-            "head": "Heading",
+            "head": "NEW_HEADING_PRODUCT_NAME_CONTENT",
             "use_body_font": false,
             "head_color": "#212121",
             "head_size_d": 30,
@@ -1327,7 +1281,7 @@
       "settings": {
         "editing": true,
         "color_scheme": "scheme-af4a96f3-9954-43c2-bc96-b688af5a0d04",
-        "header_text": "what our customers say about us",
+        "header_text": "",
         "show_top": true,
         "rating_text": "4.8",
         "rating_range": 4.5,
