@@ -148,7 +148,7 @@
           "settings": {
             "icon": "truck",
             "icon_width": 20,
-            "content": "<p><strong>Free Shipping</strong></p>",
+            "content": "<p><strong>NEW_FREE_SHIPPING_TEXT_CONTENT</strong></p>",
             "font_size": 100
           }
         },
@@ -544,14 +544,14 @@
         "heading_n7qWwi": {
           "type": "heading",
           "settings": {
-            "heading": "Plongez dans l'Expérience Immersive",
+            "heading": "NEW_HEADING_PRODUCT_TEXT_VIDEO",
             "heading_size": "h1"
           }
         },
         "text_FB4Yam": {
           "type": "text",
           "settings": {
-            "text": "<p>Chaque détail est rendu avec une précision exceptionnelle, des couleurs vibrantes aux textures riches, pour un résultat véritablement professionnel.</p>",
+            "text": "<p>NEW_PARAGRAPH_PRODUCT_TEXT_VIDEO</p>",
             "text_style": "body"
           }
         }
@@ -565,6 +565,7 @@
         "layout_width": "grid",
         "height": "medium",
         "desktop_image_width": "medium",
+        "video":"NEW_VIDEO_TEXT_SOURCE_CONTENT",
         "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
@@ -639,7 +640,6 @@
     "e80cb7bb-7295-4d49-bbf9-cb8f0fdd2f92",
     "video_text_yJ6PjU",
     "related-products",
-    "1fb20424-5ac5-4b68-aff6-1aad4ac1834f",
     "c6a2756f-efaf-4030-af3c-fec47ba7645e"
   ]
 }

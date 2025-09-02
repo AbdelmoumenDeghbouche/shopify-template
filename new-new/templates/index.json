@@ -268,7 +268,7 @@
                 "secondary_background": false,
                 "media_size": "medium",
                 "constrain_to_viewport": true,
-                "media_fit": "contain",
+                "media_fit": "cover",
                 "media_position": "left",
                 "desktop_content_position": "middle",
                 "desktop_content_alignment": "left",
@@ -286,7 +286,7 @@
                     "type": "image",
                     "settings": {
                         "large_up_hide": false,
-                        "grid_width_desktop": "50",
+                        "grid_width_desktop": "33",
                         "medium_hide": false,
                         "grid_width_tablet": "33.3333333",
                         "small_hide": false,
@@ -318,9 +318,9 @@
                     "type": "text",
                     "settings": {
                         "large_up_hide": false,
-                        "grid_width_desktop": "25",
+                        "grid_width_desktop": "33",
                         "medium_hide": false,
-                        "grid_width_tablet": "25",
+                        "grid_width_tablet": "33",
                         "small_hide": false,
                         "image": "NEW_THEME_PRODUCT_SHOWCASE_IMAGE_1",
                         "show_border": false,
@@ -354,9 +354,9 @@
                     "type": "image",
                     "settings": {
                         "large_up_hide": false,
-                        "grid_width_desktop": "25",
+                        "grid_width_desktop": "33",
                         "medium_hide": false,
-                        "grid_width_tablet": "25",
+                        "grid_width_tablet": "33",
                         "small_hide": false,
                         "image": "NEW_THEME_PRODUCT_SHOWCASE_IMAGE_2",
                         "overlay_opacity": 0,
@@ -434,12 +434,7 @@
                         "heading_size": "h1"
                     }
                 },
-                "template--20863348703538__c18aac23-6734-44b2-9bac-a12c89451461-text-1": {
-                    "type": "text",
-                    "settings": {
-                        "text": "<p>NEW_DISPLAY_CUSTOMER_REVIEWS_CONTENT</p>"
-                    }
-                },
+
                 "template--20863348703538__c18aac23-6734-44b2-9bac-a12c89451461-button-1": {
                     "type": "button",
                     "disabled": true,
@@ -455,7 +450,6 @@
             },
             "block_order": [
                 "template--20863348703538__c18aac23-6734-44b2-9bac-a12c89451461-heading-1",
-                "template--20863348703538__c18aac23-6734-44b2-9bac-a12c89451461-text-1",
                 "template--20863348703538__c18aac23-6734-44b2-9bac-a12c89451461-button-1"
             ],
             "settings": {

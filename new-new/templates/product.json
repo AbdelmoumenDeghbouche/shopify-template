@@ -220,30 +220,7 @@
             "custom_icon_3_width": 34
           }
         },
-        "promo_slide_jgy7R9": {
-          "type": "promo-slide",
-          "settings": {
-            "block_heading": "Super Product!!!",
-            "text_1": "<p>Share information about your brand with your customers.  ★★★★★</p>",
-            "show_slide_2": true,
-            "block_heading_2": "Pairs well with",
-            "text_2": "<p>Share information about your brand with your customers. </p>",
-            "show_slide_3": false,
-            "block_heading_3": "Pairs well with",
-            "text_3": "<p>Share information about your brand with your customers. </p>",
-            "color_scheme": "scheme-af4a96f3-9954-43c2-bc96-b688af5a0d04",
-            "slide_padding": 14,
-            "show_border": false,
-            "border_color": "#ededed",
-            "slide_wrapper_radius": 6,
-            "slide_img_size": 60,
-            "slide_img_radius": 100,
-            "head_size": 16,
-            "text_size": 12,
-            "padding_top": 0,
-            "padding_bottom": 20
-          }
-        },
+
         "ad4a2bc2-8dd2-4105-9923-5bd7d66f77f3": {
           "type": "icon-with-text",
           "settings": {
@@ -262,9 +239,9 @@
           "type": "collapsible_tab",
           "settings": {
             "open_first_collapsible_row": false,
-            "heading": "Customer Service",
+            "heading": "NEW_CUSTOMER_SERVICE_TEXT_CONTENT",
             "icon": "none",
-            "content": "<p>Embrace the Freedom of Global Shipping with Every Purchase</p>",
+            "content": "<p>NEW_CUSTOMER_SERVICE_PARAGRAPH_CONTENT</p>",
             "page": ""
           }
         },
@@ -340,58 +317,7 @@
         "padding_bottom_mb": 36
       }
     },
-    "lumin_slider_2_3VMDAp": {
-      "type": "lumin-slider-2",
-      "blocks": {
-        "review_image_bCTPCr": {
-          "type": "review_image",
-          "settings": {}
-        },
-        "review_image_JTABEy": {
-          "type": "review_image",
-          "settings": {}
-        },
-        "review_image_fJWCKD": {
-          "type": "review_image",
-          "settings": {}
-        },
-        "review_image_GhXraX": {
-          "type": "review_image",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "review_image_bCTPCr",
-        "review_image_JTABEy",
-        "review_image_fJWCKD",
-        "review_image_GhXraX"
-      ],
-      "settings": {
-        "content_alignment": "center",
-        "layout": "1",
-        "heading": "NEW_LOOK_AT_OTHERS_CONTENT",
-        "subheading": "NEW_REAL_OFFER_PEOPLE_CONTENT",
-        "button_text": "NEW_CLAIM_OFFER_CONTENT",
-        "button_link": "",
-        "rating_text": "NEW_THEME_REVIEW_SLIDER_RATING",
-        "color_scheme": "scheme-af4a96f3-9954-43c2-bc96-b688af5a0d04",
-        "button_color": "#212121",
-        "star_color": "#ffd700",
-        "navigation_color": "#212121",
-        "auto_play": true,
-        "show_navigation": false,
-        "scroll_speed": 4,
-        "head_size": 42,
-        "head_size_mb": 32,
-        "subhead_size": 18,
-        "subhead_size_mb": 16,
-        "review_size": 12,
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "margin_top": 36,
-        "margin_bottom": 36
-      }
-    },
+
 
     "comparison_table_weEBa6": {
       "type": "comparison-table",
@@ -399,7 +325,7 @@
         "row_gGix3c": {
           "type": "row",
           "settings": {
-            "benefit": "Caméra 4K Ultra HD à 60 fps",
+            "benefit": "NEW_PROS_1_CONTENT",
             "us": true,
             "others": false
           }
@@ -407,7 +333,7 @@
         "row_GD4keD": {
           "type": "row",
           "settings": {
-            "benefit": "Autonomie de vol de 30 minutes",
+            "benefit": "NEW_PROS_2_CONTENT",
             "us": true,
             "others": false
           }
@@ -415,7 +341,7 @@
         "row_RjxJwy": {
           "type": "row",
           "settings": {
-            "benefit": "Stabilisation 3 axes intelligente",
+            "benefit": "NEW_PROS_3_CONTENT",
             "us": true,
             "others": false
           }
@@ -423,7 +349,7 @@
         "row_UCwzEV": {
           "type": "row",
           "settings": {
-            "benefit": "Retour Follow-Me automatique",
+            "benefit": "NEW_PROS_4_CONTENT",
             "us": true,
             "others": false
           }
@@ -431,7 +357,7 @@
         "row_WrB3M7": {
           "type": "row",
           "settings": {
-            "benefit": "Portée de transmission de 8 km",
+            "benefit": "NEW_PROS_5_CONTENT",
             "us": true,
             "others": false
           }
@@ -544,14 +470,14 @@
         "heading_n7qWwi": {
           "type": "heading",
           "settings": {
-            "heading": "Plongez dans l'Expérience Immersive",
+            "heading": "NEW_HEADING_PRODUCT_TEXT_VIDEO",
             "heading_size": "h1"
           }
         },
         "text_FB4Yam": {
           "type": "text",
           "settings": {
-            "text": "<p>Chaque détail est rendu avec une précision exceptionnelle, des couleurs vibrantes aux textures riches, pour un résultat véritablement professionnel.</p>",
+            "text": "<p>NEW_PARAGRAPH_PRODUCT_TEXT_VIDEO</p>",
             "text_style": "body"
           }
         }
@@ -634,12 +560,10 @@
   },
   "order": [
     "main",
-    "lumin_slider_2_3VMDAp",
     "comparison_table_weEBa6",
     "e80cb7bb-7295-4d49-bbf9-cb8f0fdd2f92",
     "video_text_yJ6PjU",
     "related-products",
-    "1fb20424-5ac5-4b68-aff6-1aad4ac1834f",
     "c6a2756f-efaf-4030-af3c-fec47ba7645e"
   ]
 }
