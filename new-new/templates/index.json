@@ -116,7 +116,7 @@
                 "heading_tP9hhg": {
                     "type": "heading",
                     "settings": {
-                        "heading": "Une précision à couper le souffle",
+                        "heading": "NEW_PRODUCT_HEADING_1_CONTENT",
                         "heading_size": "h1"
                     }
                 },
@@ -248,7 +248,7 @@
                 "share_HUkxMX": {
                     "type": "share",
                     "settings": {
-                        "share_label": "Share"
+                        "share_label": "HOME_SHARE_LABEL_CONTENT"
                     }
                 }
             },
