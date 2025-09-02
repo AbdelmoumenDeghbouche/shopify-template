@@ -31,8 +31,9 @@
                 "text_MLrRhQ"
             ],
             "settings": {
+                "image": "NEW_CONTACT_PAGE_IMAGE_BANNER",
                 "image_overlay_opacity": 30,
-                "image_height": "xsmall",
+                "image_height": "small",
                 "desktop_content_position": "middle-center",
                 "show_text_box": false,
                 "desktop_content_alignment": "center",
