@@ -474,7 +474,7 @@
                     "type": "column",
                     "settings": {
                         "title": "★★★★★",
-                        "text": "NEW_",
+                        "text": "NEW_REVIEW_1_HOME_CONTENT",
                         "link_label": "",
                         "link": ""
                     }
@@ -483,7 +483,7 @@
                     "type": "column",
                     "settings": {
                         "title": "★★★★★",
-                        "text": "<h2>Facilité Déconcertante</h2><p></p><p>Parfait pour les débutants. Le décollage et l'atterrissage automatiques rendent le pilotage accessible à tous. Très intuitif.</p><h6><strong>Sophie L., Toulouse</strong></h6>",
+                        "text": "NEW_REVIEW_2_HOME_CONTENT",
                         "link_label": "",
                         "link": ""
                     }
@@ -492,7 +492,7 @@
                     "type": "column",
                     "settings": {
                         "title": "★★★★☆",
-                        "text": "<h2>Très Bon Achat</h2><p></p><p>Le design est sublime et les fonctionnalités sont top. Je m'attendais à une autonomie légèrement supérieure, mais globalement ravi.</p><h6><strong>Thomas D., Bordeaux</strong></h6>",
+                        "text": "NEW_REVIEW_3_HOME_CONTENT",
                         "link_label": "",
                         "link": ""
                     }
@@ -501,7 +501,7 @@
                     "type": "column",
                     "settings": {
                         "title": "★★★★★",
-                        "text": "<h2>Pro Qualité</h2><p></p><p>J'utilise ce drone pour mon travail et les rendus sont toujours professionnels. Les clients adorent les angles de vue uniques.</p><h6><strong>Jean K., Paris</strong></h6>",
+                        "text": "NEW_REVIEW_4_HOME_CONTENT",
                         "link_label": "",
                         "link": ""
                     }
@@ -626,13 +626,13 @@
                         "caption": "",
                         "block_cap_size": 20,
                         "cap_color": "#222222",
-                        "heading": "Besoin d'aide ?",
+                        "heading": "NEW_NEED_HELP_CONTENT",
                         "block_head_size-2": 40,
                         "block_head_size-mobile": 30,
                         "block_head_line": 1.4,
                         "heading_size": "h0",
-                        "subheading": "Notre équipe est là pour répondre à toutes vos questions.",
-                        "button_label": "Contact Us",
+                        "subheading": "NEW_OUR_TEAM_IS_HERE_CONTENT",
+                        "button_label": "NEW_CONTACT_US_BUTTON_CONTENT",
                         "link": "shopify://pages/contact",
                         "link-2": "",
                         "button_style_secondary": false,
