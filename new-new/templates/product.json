@@ -105,11 +105,11 @@
             "inventory_threshold": 9,
             "show_inventory_bar": true,
             "show_inventory_pill": true,
-            "text_soldout": "Unfortunately this item is sold-out!",
-            "text_untracked": "Currently this item has stock!",
-            "text_low_one": "Hurry up! Only 1 item is in stock",
-            "text_low_many": "Hurry up! Only [qty] items are in stock.",
-            "text_normal": "Currently <b>[qty] items</b> are in stock!",
+            "text_soldout": "PRODUCT_SOLDOUT_TEXT",
+            "text_untracked": "PRODUCT_UNTRACKED_TEXT",
+            "text_low_one": "PRODUCT_LOW_ONE_TEXT",
+            "text_low_many": "PRODUCT_LOW_MANY_TEXT",
+            "text_normal": "PRODUCT_NORMAL_TEXT",
             "inv_bar_height": 8,
             "inv_bar_radius": 24,
             "inv_bar_width_normal": 70,
@@ -252,7 +252,7 @@
         "share": {
           "type": "share",
           "settings": {
-            "share_label": "Share"
+            "share_label": "PRODUCT_SHARE_LABEL"
           }
         }
       },
@@ -382,7 +382,7 @@
         "logo_width": 90,
         "mobile_logo_width": 60,
         "us_label": "",
-        "others_label": "Others",
+        "others_label": "PRODUCT_OTHERS_LABEL",
         "benefit_color_scheme": "",
         "icon_cells_color_scheme": "",
         "checkmark_color": "#7069bc",
@@ -508,7 +508,7 @@
     "related-products": {
       "type": "related-products",
       "settings": {
-        "heading": "You may also like",
+        "heading": "PRODUCT_RELATED_HEADING",
         "heading_size": "h2",
         "collection_text_alignment": "left",
         "products_to_show": 4,
