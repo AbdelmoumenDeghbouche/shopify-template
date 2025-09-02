@@ -14,14 +14,14 @@
                 "heading_XDLhdY": {
                     "type": "heading",
                     "settings": {
-                        "heading": "Nous sommes là pour vous aider",
+                        "heading": "NEW_WE_ARE_HERE_TO_HELP_FT",
                         "heading_size": "h1"
                     }
                 },
                 "text_MLrRhQ": {
                     "type": "text",
                     "settings": {
-                        "text": "<strong>Contactez-nous</strong>",
+                        "text": "<strong>NEW_CONTACT_US_FT</strong>",
                         "text_style": "caption-with-letter-spacing"
                     }
                 }
@@ -49,14 +49,14 @@
                 "template--20863348769074__73cd8c80-f2f3-4f22-afc4-4adfd5b6f906-heading-1": {
                     "type": "heading",
                     "settings": {
-                        "heading": "Envoyez-nous un message",
+                        "heading": "NEW_SEND_US_MESSAGE_FT",
                         "heading_size": "h1"
                     }
                 },
                 "template--20863348769074__73cd8c80-f2f3-4f22-afc4-4adfd5b6f906-text-1": {
                     "type": "text",
                     "settings": {
-                        "text": "<p>Notre équipe support vous répondra dans les plus brefs délais pour toute question technique ou commerciale.</p>"
+                        "text": "<p>NEW_SUPPORT_TEAM_RESPONSE_FT</p>"
                     }
                 },
                 "template--20863348769074__73cd8c80-f2f3-4f22-afc4-4adfd5b6f906-button-1": {
@@ -144,16 +144,16 @@
                         "padding_size_in": 10,
                         "text_border": 0,
                         "bg_color": "rgba(0,0,0,0)",
-                        "head": "Soldes d'Été",
+                        "head": "NEW_SUMMER_SALE_FT",
                         "head_color": "#ffffff",
                         "head_size_d": 50,
                         "head_size_m": 38,
                         "margin_bottom": 15,
-                        "text": "Jusqu'à 40% de réduction",
+                        "text": "NEW_UP_TO_40_OFF_FT",
                         "text_color": "#ffffff",
                         "text_size_d": 16,
                         "text_size_m": 14,
-                        "button-text": "Profiter des soldes",
+                        "button-text": "NEW_SHOP_SALE_FT",
                         "button_link": "shopify://collections/teeth",
                         "desktop_content_alignment": "left",
                         "image_content_position": "bottom-left",
@@ -176,16 +176,16 @@
                         "padding_size_in": 10,
                         "text_border": 0,
                         "bg_color": "rgba(0,0,0,0)",
-                        "head": "BUNDLE_AND_SALE_TTRANSLATION",
+                        "head": "NEW_BUNDLE_SALE_FT",
                         "head_color": "#ffffff",
                         "head_size_d": 50,
                         "head_size_m": 38,
                         "margin_bottom": 15,
-                        "text": "Économisez sur nos packs exclusifs",
+                        "text": "NEW_SAVE_EXCLUSIVE_PACKS_FT",
                         "text_color": "#ffffff",
                         "text_size_d": 16,
                         "text_size_m": 14,
-                        "button-text": "Voir les packs",
+                        "button-text": "NEW_VIEW_PACKS_FT",
                         "button_link": "shopify://collections/teeth",
                         "desktop_content_alignment": "left",
                         "image_content_position": "bottom-left",
