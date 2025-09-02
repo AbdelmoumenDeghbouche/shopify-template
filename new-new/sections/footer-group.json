@@ -11,8 +11,8 @@
                         "slide_radius": 0,
                         "link": "",
                         "show_icon": true,
-                        "title": "Livraison Gratuite",
-                        "text": "<p>Offerte à partir de 100€ d'achat.</p>"
+                        "title": "FOOTER_FREE_SHIPPING_TITLE_FT",
+                        "text": "<p>FOOTER_FREE_SHIPPING_DESC_FT</p>"
                     }
                 },
                 "icon_Hg4ggy": {
@@ -21,8 +21,8 @@
                         "slide_radius": 0,
                         "link": "",
                         "show_icon": true,
-                        "title": "Retours Faciles",
-                        "text": "<p>30 jours pour changer d'avis.</p>"
+                        "title": "FOOTER_EASY_RETURNS_TITLE_FT",
+                        "text": "<p>FOOTER_EASY_RETURNS_DESC_FT</p>"
                     }
                 },
                 "icon_H7jLD4": {
@@ -31,8 +31,8 @@
                         "slide_radius": 0,
                         "link": "",
                         "show_icon": true,
-                        "title": "Support 24/7",
-                        "text": "<p>Une assistance technique toujours disponible.</p>"
+                        "title": "FOOTER_SUPPORT_TITLE_FT",
+                        "text": "<p>FOOTER_SUPPORT_DESC_FT</p>"
                     }
                 },
                 "icon_xMMDLG": {
@@ -41,8 +41,8 @@
                         "slide_radius": 0,
                         "link": "",
                         "show_icon": true,
-                        "title": "Paiement Sécurisé",
-                        "text": "<p>Vos transactions sont cryptées et protégées.</p>"
+                        "title": "FOOTER_SECURE_PAYMENT_TITLE_FT",
+                        "text": "<p>FOOTER_SECURE_PAYMENT_DESC_FT</p>"
                     }
                 }
             },
@@ -84,20 +84,7 @@
                 "announcement_McWUMc": {
                     "type": "announcement",
                     "settings": {
-                        "Announcement": "<p>Nouveauté ! Découvrez nos accessoires compatibles.</p><p><a href=\"/collections/all\" title=\"All products\"><strong>Shop now</strong></a></p>",
-                        "announcement_size": 18,
-                        "announcement_size_m": 16,
-                        "text_spacing": 0,
-                        "text_transform": "uppercase",
-                        "announcement_color": "#000000",
-                        "icon": "none",
-                        "text_link": ""
-                    }
-                },
-                "announcement_VrjH6w": {
-                    "type": "announcement",
-                    "settings": {
-                        "Announcement": "<p>Économisez 10% sur votre première commande.</p>",
+                        "Announcement": "<p>NEW_FREE_SHIPPING_CONTENT_FT</p> <p><a href=\"shopify://collections/all\" title=\"NEW_SHOP_NOW_CONTENT_FT\"><strong>NEW_SHOP_NOW_CONTENT_FT</strong></a></p>",
                         "announcement_size": 18,
                         "announcement_size_m": 16,
                         "text_spacing": 0,
@@ -109,8 +96,7 @@
                 }
             },
             "block_order": [
-                "announcement_McWUMc",
-                "announcement_VrjH6w"
+                "announcement_McWUMc"
             ],
             "settings": {
                 "scroll_speed": 40,
@@ -131,14 +117,14 @@
                 "sections--15124688797779__420dbb1b-f872-4861-99ec-c6ce83df4831-heading-1": {
                     "type": "heading",
                     "settings": {
-                        "heading": "Restez connectés",
+                        "heading": "NEWSLETTER_HEADING_TITLE_FT",
                         "heading_size": "h2"
                     }
                 },
                 "sections--15124688797779__420dbb1b-f872-4861-99ec-c6ce83df4831-paragraph-1": {
                     "type": "paragraph",
                     "settings": {
-                        "text": "<p>Soyez le premier informé des nouveautés et offres exclusives.</p>"
+                        "text": "<p>NEWSLETTER_SUBTITLE_DESC_FT</p>"
                     }
                 },
                 "sections--15124688797779__420dbb1b-f872-4861-99ec-c6ce83df4831-email_form-1": {
@@ -157,7 +143,7 @@
                 "text_align": "center",
                 "news_alignment": "horizontal",
                 "show_small_text": true,
-                "small_text": "*Nous ne partageons jamais vos informations.",
+                "small_text": "NEWSLETTER_PRIVACY_NOTE_FT",
                 "padding_top": 64,
                 "padding_bottom": 84,
                 "margin_top": 0,
@@ -186,15 +172,15 @@
                 "0dfe9e9f-d96e-442f-be6e-881afaba1771": {
                     "type": "link_list",
                     "settings": {
-                        "heading": "Shop",
+                        "heading": "FOOTER_MENU_HEADING_FT",
                         "menu": "main-menu"
                     }
                 },
                 "text_y3qDPH": {
                     "type": "text",
                     "settings": {
-                        "heading": "Contactez-nous",
-                        "subtext": "<p>Une question ? Écrivez-nous à support@skyvisionpro.fr</p>"
+                        "heading": "FOOTER_CONTACT_HEADING_FT",
+                        "subtext": "<p>FOOTER_CONTACT_MESSAGE_FT</p>"
                     }
                 }
             },
@@ -209,7 +195,7 @@
                 "show_border": false,
                 "show_body_font": "head",
                 "newsletter_enable": false,
-                "newsletter_heading": "Subscribe to our emails",
+                "newsletter_heading": "FOOTER_NEWSLETTER_HEADING_FT",
                 "enable_follow_on_shop": true,
                 "show_social": false,
                 "enable_country_selector": true,
@@ -221,9 +207,9 @@
                 "custom_icon_2_width": 34,
                 "custom_icon_3_width": 34,
                 "hide_shopify": true,
-                "copyright": "- Theme by <a href=\"https://lumintheme.com/\" target=\"_blank\" title=\"https://lumintheme.com/\">Lumin<em>Theme</em></a> © 2024",
+                "copyright": "FOOTER_COPYRIGHT_TEXT_FT",
                 "show_bottom_text": false,
-                "bottom_text": "Note that all content and resources provided on our website are not medical advice nor should they be used as a substitute for professional medical treatment. For medical concerns and/or emergencies, consult your health care provider and emergency services immediately.",
+                "bottom_text": "FOOTER_BOTTOM_DISCLAIMER_FT",
                 "color_bottom_text": "#868686",
                 "show_policy": true,
                 "margin_top": 0,

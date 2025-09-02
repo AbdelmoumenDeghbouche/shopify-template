@@ -148,7 +148,7 @@
           "settings": {
             "icon": "truck",
             "icon_width": 20,
-            "content": "<p><strong>Free Shipping</strong></p>",
+            "content": "<p><strong>NEW_FREE_SHIPPING_CONTENT_ST</strong></p>",
             "font_size": 100
           }
         },
@@ -190,7 +190,7 @@
             "image_ani": "heartBeat",
             "text_size": 12,
             "text_style": "subtitle",
-            "text": "<strong>Want it by (date)?  ORDER WITHIN [(timer)]</strong>",
+            "text": "<strong>NEW_WANT_IT_BY_CONTENT (date)? NEW_ORDER_WITHIN_CONTENT [(timer)]</strong>",
             "date_locale": "en-US",
             "ship_bg": "#ffffff",
             "show_border": false,
@@ -489,7 +489,8 @@
       "settings": {
         "color_scheme_main": "scheme-af4a96f3-9954-43c2-bc96-b688af5a0d04",
         "layout_width": "grid",
-        "height": "medium",
+        "video": "NEW_VIDEO_SOURCE_PRODUCT",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "middle",
