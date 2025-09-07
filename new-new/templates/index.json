@@ -535,7 +535,7 @@
                     "type": "slide",
                     "settings": {
                         "caption": "",
-                        "image":"NEW_THEME_HERO_BANNER",
+                        "image": "NEW_THEME_HERO_BANNER",
                         "block_cap_size": 20,
                         "cap_color": "#222222",
                         "heading": "NEW_NEED_HELP_CONTENT",
